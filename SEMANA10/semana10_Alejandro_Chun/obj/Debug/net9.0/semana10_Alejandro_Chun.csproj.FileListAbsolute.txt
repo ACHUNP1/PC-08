@@ -1,0 +1,14 @@
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\bin\Debug\net9.0\semana10_Alejandro_Chun.exe
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\bin\Debug\net9.0\semana10_Alejandro_Chun.deps.json
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\bin\Debug\net9.0\semana10_Alejandro_Chun.runtimeconfig.json
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\bin\Debug\net9.0\semana10_Alejandro_Chun.dll
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\bin\Debug\net9.0\semana10_Alejandro_Chun.pdb
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.AssemblyInfoInputs.cache
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.AssemblyInfo.cs
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.csproj.CoreCompileInputs.cache
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.dll
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\refint\semana10_Alejandro_Chun.dll
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.pdb
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\semana10_Alejandro_Chun.genruntimeconfig.cache
+C:\Users\lechi\Documents\Pensamiento Computacional\semana10_Alejandro_Chun\obj\Debug\net9.0\ref\semana10_Alejandro_Chun.dll

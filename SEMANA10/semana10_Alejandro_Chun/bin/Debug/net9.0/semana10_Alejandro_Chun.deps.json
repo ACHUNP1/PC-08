@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "semana10_Alejandro_Chun/1.0.0": {
+        "runtime": {
+          "semana10_Alejandro_Chun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semana10_Alejandro_Chun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
